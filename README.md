@@ -40,7 +40,7 @@ How To cite this repo ?
 
 If you use this tool for preparing thesis, dissertation or paper, you may cite it in following format:
 
-    Bilgin T.T. (2023). netCDF to CSV Converter. [https://doi.org/10.0000/00000](https://github.com/ttbilgin/nc2csv/)
+    Bilgin T.T. (2023). netCDF to CSV Converter. https://github.com/ttbilgin/nc2csv/
 
 
 License
