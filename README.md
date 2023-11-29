@@ -21,7 +21,7 @@ Example
 
     python nc2csv.py -i sample_data.nc -tr
 
-This command converts the `input_data.nc` file from netCDF to CSV format, using Turkish number formatting. The converted file name is sample_data_modified.csv and saved in the same folder.
+This command converts the `sample_data.nc` file from netCDF to CSV format, using Turkish number formatting. The converted file name is sample_data_modified.csv and saved in the same folder.
 
 Notes
 -----
