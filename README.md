@@ -34,6 +34,8 @@ Requirements
 ------------
 
 Make sure to have the required libraries installed before running the script:
+* https://docs.xarray.dev/en/stable/
+* https://unidata.github.io/netcdf4-python/
 
     pip install netCDF4 xarray
 
