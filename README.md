@@ -26,7 +26,7 @@ Notes
 
 *   The script creates a new CSV file with the same name as the input file but with the "_modified.csv" suffix. You can change the output file naming convention in the script.
 *   By default, the script uses a semicolon (`;`) as the separator in the output CSV file. You can modify the `sep` parameter in the script if you prefer a different separator.
-*   If you encounter any issues or need additional information, please refer to the [ttbilgin](mailto:turgay.bilgin@btu.edu.tr) for support.
+*   If you encounter any issues or need additional information, please refer to the turgay.bilgin(at)btu.edu.tr for support.
 
 Requirements
 ------------
@@ -38,4 +38,4 @@ Make sure to have the required libraries installed before running the script:
 License
 -------
 
-This script is licensed under the [MIT License](link_to_license_file).
+This script is licensed under the MIT License.
